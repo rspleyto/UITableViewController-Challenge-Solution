@@ -1,5 +1,5 @@
 //
-//  BPViewController.h
+//  BPTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by RS Pleyto on 7/22/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BPViewController : UIViewController
+@interface BPTableViewController : UITableViewController
 
 @end
